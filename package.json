@@ -1,7 +1,7 @@
 {
   "name": "ejercicio-javascript-giaco",
   "version": "1.0.0",
-  "description": "",
+  "description": "# ex4 exercise \"Reversing Words\"",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselaHurtado/JS-Micro-Ejercicios.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GiselaHurtado/JS-Micro-Ejercicios/issues"
+  },
+  "homepage": "https://github.com/GiselaHurtado/JS-Micro-Ejercicios#readme"
 }
